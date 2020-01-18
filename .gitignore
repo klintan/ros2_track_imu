@@ -1,0 +1,15 @@
+*~
+config/my_razor.yaml
+
+.Python
+.idea/
+bin/
+build/
+dist/
+include/
+install/
+lib/
+log/
+ros2_track_imu.egg-info/
+ros2_track_imu/__pycache__/
+ros2_track_imu/nodes/__pycache__/
